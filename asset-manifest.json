@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-experiment/static/css/main.6f3e36e8.css",
-    "main.js": "/react-experiment/static/js/main.140326d6.js",
+    "main.css": "/react-experiment/static/css/main.c3111048.css",
+    "main.js": "/react-experiment/static/js/main.9c94617a.js",
     "static/js/787.1cf87682.chunk.js": "/react-experiment/static/js/787.1cf87682.chunk.js",
     "static/media/IMG_1249.JPG": "/react-experiment/static/media/IMG_1249.ae17b23a842146d5a089.JPG",
     "static/media/IMG_0939.JPG": "/react-experiment/static/media/IMG_0939.07988c51dd92263c6651.JPG",
     "static/media/IMG_2972.JPG": "/react-experiment/static/media/IMG_2972.e222f9c964582e8e52ab.JPG",
     "static/media/logo.svg": "/react-experiment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-experiment/index.html",
-    "main.6f3e36e8.css.map": "/react-experiment/static/css/main.6f3e36e8.css.map",
-    "main.140326d6.js.map": "/react-experiment/static/js/main.140326d6.js.map",
+    "main.c3111048.css.map": "/react-experiment/static/css/main.c3111048.css.map",
+    "main.9c94617a.js.map": "/react-experiment/static/js/main.9c94617a.js.map",
     "787.1cf87682.chunk.js.map": "/react-experiment/static/js/787.1cf87682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f3e36e8.css",
-    "static/js/main.140326d6.js"
+    "static/css/main.c3111048.css",
+    "static/js/main.9c94617a.js"
   ]
 }
