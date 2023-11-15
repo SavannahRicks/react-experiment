@@ -95,4 +95,18 @@ li {
   gap: 20px;
   align-items: center;
 }
-img { width: 100px; height: 100px; border-radius: 50%; }
+.pepes { width: 100px; height: 100px; border-radius: 50%; }
+
+
+h2 { margin-top: 10px; margin-bottom: 0; }
+h3 {
+  margin-top: 5px;
+  font-weight: normal;
+  font-size: 100%;
+}
+
+button {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
